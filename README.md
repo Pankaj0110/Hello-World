@@ -1,2 +1,3 @@
 # Hello-World
-first repository
+My first repository
+Hello this is pankaj
